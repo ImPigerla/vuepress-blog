@@ -1,0 +1,23 @@
+{
+  "name": "vuepress-blog",
+  "version": "1.0.0",
+  "description": "blog build with vuepress",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev .",
+    "build": "vuepress build ."
+  },
+  "keywords": [
+    "blog",
+    "vuepress"
+  ],
+  "author": "pigerla",
+  "license": "ISC",
+  "dependencies": {
+    "vuepress": "^1.0.0-alpha.30"
+  },
+  "devDependencies": {
+    "node-sass": "^4.11.0",
+    "sass-loader": "^7.1.0"
+  }
+}

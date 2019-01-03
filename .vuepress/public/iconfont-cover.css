@@ -1,0 +1,6 @@
+[class*=" icon-font-"],[class^="icon-font-"] {
+  font-family:"my-blog-font-icon" !important;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
