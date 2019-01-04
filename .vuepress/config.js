@@ -10,5 +10,6 @@ module.exports = {
         '/': {
             lang: 'zh-CN'
         }
-    }
+    },
+    evergreen: true
 }
