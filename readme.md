@@ -1,6 +1,6 @@
 # 吴建杰 <sup><icon style="font-size: 1rem" class="text-color-third ml-10" name=man /></sup> <small style="font-size: 1.35rem" class="ml-30 text-color-second pull-right">华南师范大学(本科)</small>
 
-## <icon class="text-color-third mr-10" name=phone /><a href=tel:15920416317>15920416317</a>   <icon class="text-color-third ml-30 mr-10" name=mail /><a href=mailto:474957860@qq.com>474957860@qq.com</a>
+## <icon class="text-color-third mr-10" name=phone /><a class="mr-30" href=tel:15920416317>15920416317</a> <icon class="text-color-third mr-10" name=mail /><a href=mailto:474957860@qq.com>474957860@qq.com</a>
 
 ## 工作经历
 
