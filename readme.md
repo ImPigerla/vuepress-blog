@@ -45,6 +45,9 @@ navbar: false
     - 对接jenkinsCI，点击触发构建，获取构建信息
     - 用户登录管理（RSA加密），创建上线记录，构建项目可组合
     - 定时发送上线通知邮件等功能
+1. 外籍招聘官网 —— Vue + vue-router + prerender-spa-plugin + nginx
+    - 预渲染页面，静态站点
+    - 减少首屏白屏时间及解决SEO问题
 1. 网易内聘系统 / 外包招聘后台 / 面试官系统 / 供应商系统 / ...
 1. Jenkins配置 / 项目前端远程部署等日常操作
 
@@ -62,6 +65,14 @@ navbar: false
 
 - 利用webpack/vue-cli等工具建立项目脚手架（项目模版），开箱即用。
 - 累积开发通用控件、指令和配置等。
+- 内部前端规范网站
+    - Html & Css规范
+    - Javascript规范
+    - 接口约定规范
+    - 前端分享集
+- 内部Ease Mock系统搭建与推广
+    - 可按项目创建
+    - 可按成员分组
 
 具体可查看[https://github.com/ImPigerla?tab=repositories](https://github.com/ImPigerla?tab=repositories)
 
