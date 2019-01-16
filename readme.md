@@ -93,7 +93,7 @@ navbar: false
 
 1. 利用[puppeteer](https://github.com/GoogleChrome/puppeteer)进行辅助自动化测试
 1. 利用Node作为中间层（数据处理层）
-
+1. 利用[QraphQL](https://graphql.cn/)可视化编辑数据
 
 
 
