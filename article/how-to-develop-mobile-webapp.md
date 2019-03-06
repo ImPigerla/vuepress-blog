@@ -4,9 +4,9 @@
 
 ## 待解决的问题
 
-1. 如何拿到一个设计图进行开发？一般都是750px宽的设计图
+1. 如何拿到一个设计图进行开发（一般都是750px宽的设计图）？
 
-1. 能否将设计图的px尺寸转化成目标单位尺寸？例如`vw`，`rem`
+1. 能否将设计图的px尺寸转化成目标单位尺寸，例如`vw`，`rem`？
 
 1. 字体大小问题，是否改随着屏幕尺寸进行缩放？
 
@@ -94,4 +94,4 @@ body {
 
 想开发好一个项目，要做的可不止这些，以上算是理清相关思路，抛砖引玉而已。
 
-想了解更多，我准备了一个项目模版，包含上面所讲的内容，请戳[prerender-mobile-app](https://github.com/ImPigerla/prerender-mobile-app)
+想了解更多，我准备了一个项目模版，包含上面所讲的内容，请戳[prerender-mobile-app](https://github.com/ImPigerla/prerender-mobile-app)。
