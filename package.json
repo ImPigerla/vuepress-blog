@@ -1,6 +1,6 @@
 {
   "name": "vuepress-blog",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "blog build with vuepress",
   "main": "index.js",
   "scripts": {
