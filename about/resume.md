@@ -57,7 +57,7 @@ navbar: false
 
 1. [Vue](https://vuejs.org/) / Axios + Vuex + VueRouter等(Vue全家桶) / 单页面预渲染 / Vue SSR
 1. [ElementUI](https://element.eleme.io/2.4/#/zh-CN/component/installation) / Backbone / jQuey
-1. Webpack自配置 / 开发plugins
+1. Webpack自配置 / 开发plugins(如[px2vw-loader](https://github.com/ImPigerla/px2vw-loader))
 1. CSS3动画 / HTML语义化标签 / 前端性能
 1. [Eggjs](https://eggjs.org/) / Koajs / Expressjs 等 Node开发
 1. Mongodb(Mongoose) / Redis
@@ -80,15 +80,15 @@ navbar: false
 ## 移动端能力
 
 1. 微信公众号 / 小程序开发
-1. 移动适配 —— lib-flexible / vh / vw
+1. 移动适配 —— [px2vw-loader](https://github.com/ImPigerla/px2vw-loader) / [prerender-mobile-app](https://github.com/ImPigerla/prerender-mobile-app)
 
 ## 熟练工具
 
 1. CI构建部署 —— Jenkins / Gitlab-CI
-1. 内部Gitlab/npm私包 —— 可搭建，Git hook钩子  
+1. 内部Gitlab/npm私包 —— 可搭建，Git hook钩子
+1. Nginx相关web配置，如[web-prerender-nginx-config](https://github.com/ImPigerla/web-prerender-nginx-config)
 1. Git使用操作
 1. Shell常用命令
-1. Nginx相关web配置
 
 ## 其他接触&想法
 
