@@ -96,5 +96,7 @@ navbar: false
 1. 利用Node作为中间层（数据处理层）
 1. 利用[QraphQL](https://graphql.cn/)可视化编辑数据
 
+#### 相关链接
 
-
+1. <small>分享文章 [http://blog.pigerla.com/article/](http://blog.pigerla.com/article/)</small>
+1. <small>简历链接 [http://blog.pigerla.com/about/resume.html](http://blog.pigerla.com/about/resume.html)</small>
