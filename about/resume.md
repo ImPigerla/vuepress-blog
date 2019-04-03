@@ -35,13 +35,9 @@ navbar: false
     - 各种系统设置功能
     - 简历编辑/评价等功能
 1. [网易招聘内推系统](http://rms.game.163.com/bole/) —— Vue及周边
-    - 首页荟萃展示
-    - 职位列表/详情展示
+    - 首页荟萃、职位列表/详情展示
     - 我的内推等功能
     - 简历编辑/评价等功能
-1. [新员工入职系统](http://hr.game.163.com/entry/login.html) —— Backbone + jQuery
-    - 接受offer确认等功能
-    - 录入员工个人信息等模块
 1. 内部项目部署系统 —— Eggjs + Mongodb + Redis + Vue及周边 + Nginx
     - 对接jenkinsCI，点击触发构建，获取构建信息
     - 用户登录管理（RSA加密），创建上线记录，构建项目可组合
@@ -49,7 +45,7 @@ navbar: false
 1. [外籍招聘官网](http://hr.game.163.com/qa/) —— Vue + vue-router + prerender-spa-plugin + nginx
     - 预渲染页面，静态站点
     - 减少首屏白屏时间及解决SEO问题
-1. 网易内聘系统 / 外包招聘后台 / 面试官系统 / 供应商系统 / ...
+1. 网易内聘系统 / 外包招聘后台 / 面试官系统 / 新员工入职系统 / ...
 1. Jenkins配置 / 项目前端远程部署等日常操作
 
 
@@ -67,8 +63,7 @@ navbar: false
 - 利用webpack/vue-cli等工具建立项目脚手架（项目模版），开箱即用。
 - 累积开发通用控件、指令和配置等。
 - 内部前端规范网站
-    - Html & Css规范
-    - Javascript规范
+    - Html & Css & Javascript规范
     - 接口约定规范
     - 前端分享集
 - 内部Ease Mock系统搭建与推广
@@ -88,7 +83,6 @@ navbar: false
 1. 内部Gitlab/npm私包 —— 可搭建，Git hook钩子
 1. Nginx相关web配置，如[web-prerender-nginx-config](https://github.com/ImPigerla/web-prerender-nginx-config)
 1. Git使用操作
-1. Shell常用命令
 
 ## 其他接触&想法
 
