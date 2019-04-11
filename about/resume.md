@@ -17,7 +17,7 @@ navbar: false
 ## 工作经历
 
 1. **广州网易** / 3.5年 <small>(2015.08-至今)</small> / **资深开发工程师**（前端）
-    - <i class="text-color-second">担任角色</i>：小组前端负责人 / 前端面试官 / 新技术实践
+    - <i class="text-color-second">担任角色</i>：小组前端负责人 / 新技术实践
 1. **广州AI考拉理财** / 1.5年 <small>(2014.02-2014.05**实习**，2014.05-2015.07**正职**)</small> / **前端开发工程师**
 
 ## 项目经验 <small style="font-size: 1.2rem;margin-top:5px" class="pull-right text-color-third">均为独立开发</small>
