@@ -27,26 +27,27 @@ navbar: false
     - 主要负责OA系统、校招&社招等B端项目开发
     - 为内部服务，招聘流程提供稳定、靠谱的保障
 1. **广州AI考拉理财** / 1.5年 <small>(2014.02 ~ 2015.07)</small> / **前端开发工程师**
-    - 负责seajs后端服务，backbone前端项目开发
+    - 主要负责Seajs类后端服务、后台、backbone类前端项目开发
 
 ## 项目经验
 
 ### 广州小鹏汽车科技有限公司 <small style="font-size:.8em;margin-top:5px" class="pull-right text-color-third">包括以下但不限于</small>
 
 1. [活动平台](https://event.xiaopeng.com/)(2019.09 ~ 至今) —— React + Eggjs（SSR）<small style="margin-top:5px" class="pull-right">两人主导开发</small>
-    - 平台型项目，为每个活动项目提供能力支撑，支持多页面
-    - 由**渲染服务**和**模版服务**两个项目组成
+    - 是平台型项目，为每个活动项目提供能力支撑，支持活动多页面
+    - 主要由**渲染服务**和**模版服务**两个核心项目组成
     - 提供**模版开发**、**关联活动**、**渠道管理**、**推广URL**和**数据报表**等功能
     - 管理后台提供模版、活动、渠道、权限和奖品等管理能力
 1. [老带新活动](https://events.xiaopeng.com/asdqwe.html?pr=activity&ch=00022)(2019.12 ~ 2020.01) <small style="margin-top:5px" class="pull-right">独立开发</small>
-    - 承担老用户分享、拉新用户、用户留资的角色，生成海报、分享海报与邀请
+    - 是提供老用户分享、拉新用户、用户留资，可生成海报并分享与邀请功能的项目
     - 2019年底上线以来，一直是拉新、留资等角色的主力军，并后期多次迭代
     - 摘取运营数据：首页UV上升83.3%，留资页UV上升186%，分享引流倍率16%，2月KPI目标完成率129%
 1. [小鹏商城](https://store.xiaopeng.com/)(2019.09 ~ 至今) —— React + Eggjs（SSR）<small style="margin-top:5px" class="pull-right">两人合作开发</small>
-    - 汽车的线上销售，提供车辆的选配、下单、查看订单详情与状态信息等功能
+    - 是汽车线上销售的第一入口项目
+    - 提供车辆的选配、下单、查看订单详情与状态信息等功能
     - 支持意向金、定金支付方式及意向金翻倍等多种活动结合玩法
 1. [小鹏官网](https://www.xiaopeng.com/)(2019.05 ~ 2019.12) —— React + Eggjs（SSR）<small style="margin-top:5px" class="pull-right">主导开发</small>
-    - 承载公司产品图片或视频等多形式宣传与展示、新闻咨询发布、客户留资等功能
+    - 是公司汽车产品多形式宣传与展示、新闻咨询发布、客户留资等功能的门户入口
     - 通过app.locals注入当前UA环境数据以做终端适配
     - 配合CMS后台，提供路由规则制定、页面管理、文章页面、视频页面、问答页面、素材管理等功能
 1. 数字交付项目 / 用户满意度填写项目...
