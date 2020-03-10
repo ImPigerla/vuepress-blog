@@ -19,31 +19,39 @@ navbar: false
 ## 工作经历
 
 1. **广州小鹏汽车** / 1年 <small>(2019.05-至今)</small> / **前端高级工程师**
+    - 主要负责商城、官网、活动平台等C端或后台项目开发
+    - 负责相关组件或库开发，并发布成内部npm包或者内部在线文档
+    - 荣获互联网中心2019年度质量之星车联类第一名 —— 商城团队
 1. **广州网易** / 3.6年 <small>(2015.08-2019.04)</small> / **资深开发工程师**（前端）
+    - 小组前端负责人，需求评估、技术选型 & 落地
+    - 主要负责OA系统、校招&社招等B端项目开发
+    - 为内部服务，招聘流程提供稳定、靠谱的保障
 1. **广州AI考拉理财** / 1.5年 <small>(2014.02-2015.07)</small> / **前端开发工程师**
+    - 负责seajs后端服务，backbone前端项目开发
 
 ## 项目经验
 
 ### 广州小鹏汽车科技有限公司 <small style="font-size:.8em;margin-top:5px" class="pull-right text-color-third">包括以下但不限于</small>
 
-1. [活动平台](https://event.xiaopeng.com/) —— React + Eggjs（SSR）<small style="margin-top:5px" class="pull-right">两人主导开发</small>
+1. [活动平台](https://event.xiaopeng.com/)(2019.09 ~ 至今) —— React + Eggjs（SSR）<small style="margin-top:5px" class="pull-right">两人主导开发</small>
     - 平台型项目，为每个活动项目提供能力支撑，支持多页面
     - 由**渲染服务**和**模版服务**两个项目组成
     - 提供**模版开发**、**关联活动**、**渠道管理**、**推广URL**和**数据报表**等功能
     - 管理后台提供模版、活动、渠道、权限和奖品等管理能力
-1. [老带新活动](https://events.xiaopeng.com/asdqwe.html?pr=activity&ch=00022) <small style="margin-top:5px" class="pull-right">独立开发</small>
+1. [老带新活动](https://events.xiaopeng.com/asdqwe.html?pr=activity&ch=00022)(2019.12 ~ 2020.01) <small style="margin-top:5px" class="pull-right">独立开发</small>
     - 承担老用户分享、拉新用户、用户留资的角色，生成海报、分享海报与邀请
     - 2019年底上线以来，一直是拉新、留资等角色的主力军，并后期多次迭代
     - 摘取运营数据：首页UV上升83.3%，留资页UV上升186%，分享引流倍率16%，2月KPI目标完成率129%
-1. [小鹏商城](https://store.xiaopeng.com/) —— React + Eggjs（SSR）<small style="margin-top:5px" class="pull-right">两人合作开发</small>
+1. [小鹏商城](https://store.xiaopeng.com/)(2019.09 ~ 至今) —— React + Eggjs（SSR）<small style="margin-top:5px" class="pull-right">两人合作开发</small>
     - 汽车的线上销售，提供车辆的选配、下单、查看订单详情与状态信息等功能
     - 支持意向金、定金支付方式及意向金翻倍等多种活动结合玩法
-1. [小鹏官网](https://www.xiaopeng.com/) —— React + Eggjs（SSR）<small style="margin-top:5px" class="pull-right">主导开发</small>
+1. [小鹏官网](https://www.xiaopeng.com/)(2019.05 ~ 2019.12) —— React + Eggjs（SSR）<small style="margin-top:5px" class="pull-right">主导开发</small>
     - 承载公司产品图片或视频等多形式宣传与展示、新闻咨询发布、客户留资等功能
-    - 通过app.locals注入当前UA环境的
+    - 通过app.locals注入当前UA环境数据以做终端适配
     - 配合CMS后台，提供路由规则制定、页面管理、文章页面、视频页面、问答页面、素材管理等功能
+1. 数字交付项目 / 用户满意度填写项目...
 
-<h3 style="text-align:center">荣获互联网中心2019年度质量之星车联类第一名 —— 商城团队</h3>
+<h3 style="font-size:1.2em;text-align:center">荣获互联网中心2019年度质量之星车联类第一名 —— 商城团队</h3>
  
 
 ### 广州网易互动娱乐有限公司 <small style="font-size:.8em;margin-top:5px" class="pull-right text-color-third">均为独立开发</small>
@@ -59,9 +67,9 @@ navbar: false
     
 ### 个人实践
 
-1. **report-js** —— 纯js + Webpack UMD构建（现在用）
+1. **report-js**(2019.10 ~ 2019.12) —— 纯js + Webpack UMD构建（现在用）
     - js打点上报，与业务无关的方法库（npm包），支持多种方式引入，兼容SSR
-1. **vue-components** —— vue组件集合（多个后台项目在用）
+1. **vue-components**(2019.06 ~ 2019.12) —— vue组件集合（多个后台项目在用）
     - 提供一个独立项目的组件集合，提供组件同时可以看组件demo
     - 支持写Readme.md文件编写组件的demo文档，支持tree shake
 1. **内部项目部署系统**（网易） —— Eggjs + MongoDB + Redis + Vue + VueRouter + Vuex + Nginx
@@ -72,14 +80,14 @@ navbar: false
 1. 微信公众号 / 小程序开发 / Web APP开发
 1. 移动适配（React/Vue） —— [px2vw-loader](https://github.com/ImPigerla/px2vw-loader) / [prerender-mobile-app](https://github.com/ImPigerla/prerender-mobile-app)
 
-## 技术栈&熟练工具
+## 技术栈&工具
 
-1. Vue（包含Vuex + VueRouter等全家桶） / Axios / 单页面预渲染 / React（SSR）
-1. Webpack自配置 / Easywebpack / 开发plugins(如[px2vw-loader](https://github.com/ImPigerla/px2vw-loader))
-1. ElementUI / Backbone / jQuey / Angular / Taro
-1. Eggjs / Koajs / Expressjs 等 Node开发
-1. MongoDB(Mongoose) / Redis
-1. Git hook / npm publish
+1. 熟练 Vue（包含Vuex + VueRouter等全家桶） / Axios / 单页面预渲染 / React（SSR）/ ES6
+1. 熟悉 Webpack自配置 / Easywebpack / 开发plugins(如[px2vw-loader](https://github.com/ImPigerla/px2vw-loader))
+1. 熟练 ElementUI / Backbone / jQuey / Angular
+1. 熟悉 Eggjs / Koajs / Expressjs 等 Node开发
+1. 熟悉 MongoDB(Mongoose) / Redis
+1. 熟练 Git hook / npm publish
 1. IDE: vscode / webstorm / vim
 1. OS: MacOS / Windows / Ubuntu / Centos
 
