@@ -4,11 +4,13 @@ navbar: false
 ---
 
 
-# 吴建杰 <small style="font-size: 1.35rem;margin-top:8px" class="text-color-second pull-right">1990-08-24 <icon style="font-size: 1rem" class="text-color-third ml-10" name=man /></small>
+# 吴建杰
 
 ---
 
-## 学校&联系
+30岁 / 男 / 1990-08-24 / 已婚 / 户籍：广东湛江吴川市 / 现居地：广州番禺祈福 / 最快到职时间为2周
+
+## 学历&联系
 
 ### <icon class="text-color-third mr-10" name=xuexiaoqingkuang />华南师范大学 <sup style="font-weight: normal;">2010 ~ 2014</sup> <small class="pull-right" style="font-weight: normal; margin-top: 5px;">计算机学院 **软件工程** 专业，**本科** 学历</small>
 
@@ -16,81 +18,72 @@ navbar: false
 
 ## 工作经历
 
-1. **广州网易** / 3.5年 <small>(2015.08-至今)</small> / **资深开发工程师**（前端）
-    - <i class="text-color-second">担任角色</i>：小组前端负责人 / 新技术实践
-1. **广州AI考拉理财** / 1.5年 <small>(2014.02-2014.05**实习**，2014.05-2015.07**正职**)</small> / **前端开发工程师**
+1. **广州小鹏汽车** / 1年 <small>(2019.05-至今)</small> / **前端高级工程师**
+1. **广州网易** / 3.6年 <small>(2015.08-2019.04)</small> / **资深开发工程师**（前端）
+1. **广州AI考拉理财** / 1.5年 <small>(2014.02-2015.07)</small> / **前端开发工程师**
 
-## 项目经验 <small style="font-size: 1.2rem;margin-top:5px" class="pull-right text-color-third">均为独立开发</small>
+## 项目经验
 
-1. [网易在线笔试系统](http://hr.game.163.com/exam) —— Vue及周边
-    - 笔试前选择答题时间段，到点通知
-    - 笔试时分单选/多选/填空/问答4种类型，自由切换题目，时间倒计时等逻辑
-    - 笔试后查看结果，邮件/短信通知
+### 广州小鹏汽车科技有限公司 <small style="font-size:.8em;margin-top:5px" class="pull-right text-color-third">包括以下但不限于</small>
+
+1. [活动平台](https://event.xiaopeng.com/) —— React + Eggjs（SSR）<small style="margin-top:5px" class="pull-right text-color-third">两人主导开发</small>
+    - 平台型项目，为每个活动项目提供能力支撑，支持多页面
+    - 由**渲染服务**和**模版服务**两个项目组成
+    - 提供**模版开发**、**关联活动**、**渠道管理**、**推广URL**和**数据报表**等功能
+    - 管理后台提供模版、活动、渠道、权限和奖品等管理能力
+1. [老带新活动](https://events.xiaopeng.com/asdqwe.html?pr=activity&ch=00022) <small style="margin-top:5px" class="pull-right text-color-third">独立开发</small>
+    - 承担老用户分享、拉新用户、用户留资的角色，生成海报、分享海报与邀请
+    - 2019年底上线以来，一直是拉新、留资等角色的主力军，并后期多次迭代
+    - 摘取运营数据：首页UV上升83.3%，留资页UV上升186%，分享引流倍率16%，2月KPI目标完成率129%
+1. [小鹏商城](https://store.xiaopeng.com/) —— React + Eggjs（SSR）<small style="margin-top:5px" class="pull-right text-color-third">两人合作开发</small>
+    - 汽车的线上销售，提供车辆的选配、下单、查看订单详情与状态信息等功能
+    - 支持意向金、定金支付方式及意向金翻倍等多种活动结合玩法
+1. [小鹏官网](https://www.xiaopeng.com/) —— React + Eggjs（SSR）<small style="margin-top:5px" class="pull-right text-color-third">主导开发</small>
+    - 承载公司产品图片或视频等多形式宣传与展示、新闻咨询发布、客户留资等功能
+    - 配合CMS后台，提供路由规则制定、页面管理、文章页面、视频页面、问答页面、素材管理等功能
+
+<h3 style="text-align:center">荣获互联网中心2019年度质量之星车联类第一名 —— 商城团队</h3>
+ 
+
+### 广州网易互动娱乐有限公司 <small style="font-size:.8em;margin-top:5px" class="pull-right text-color-third">均为独立开发</small>
+
+1. [网易在线笔试系统](http://hr.game.163.com/exam) —— Vue + VueRouter + Vuex
+    - 选择答题时间段，查看结果，邮件/短信通知；分单选/多选/填空/问答4种类型，切换题目，时间倒计时等逻辑
 1. [社会招聘门户](http://hr.game.163.com) —— jsp + jQuery + fullpage.js
-    - 门户网站宣传作用
-    - 职位列表/详情展示
-    - 支持简历投递/职位收藏/简历创建
-1. [社招管理后台](http://rms.game.163.com/hr/) —— Vue及周边
-    - 多个阶段流转模块
-    - 各种系统设置功能
-    - 简历编辑/评价等功能
-1. [网易招聘内推系统](http://rms.game.163.com/bole/) —— Vue及周边
-    - 首页荟萃、职位列表/详情展示
-    - 我的内推等功能
-    - 简历编辑/评价等功能
-1. 内部项目部署系统 —— Eggjs + Mongodb + Redis + Vue及周边 + Nginx
-    - 对接jenkinsCI，点击触发构建，获取构建信息
-    - 用户登录管理（RSA加密），创建上线记录，构建项目可组合
-    - 定时发送上线通知邮件等功能
-1. [外籍招聘官网](http://hr.game.163.com/qa/) —— Vue + vue-router + prerender-spa-plugin + nginx
-    - 预渲染页面，静态站点
-    - 减少首屏白屏时间及解决SEO问题
-1. 网易内聘系统 / 外包招聘后台 / 面试官系统 / 新员工入职系统 / ...
-1. Jenkins配置 / 项目前端远程部署等日常操作
+    - 支持职位列表/详情展示/简历投递/职位收藏/简历创建
+1. [网易招聘内推系统](http://rms.game.163.com/bole/) —— Vue + VueRouter + Vuex
+    - 首页荟萃、职位列表/详情展示、我的内推等功能；后台简历编辑/评价等功能
+1. [外籍招聘官网](http://hr.game.163.com/qa/) —— Vue + VueRouter + Prerender-spa-plugin + Nginx
+    - 预渲染页面，静态站点；减少首屏白屏时间及解决SEO问题
+    
+### 个人实践
 
-
-## 技术栈&能力
-
-1. [Vue](https://vuejs.org/) / Axios + Vuex + VueRouter等(Vue全家桶) / 单页面预渲染 / Vue SSR
-1. [ElementUI](https://element.eleme.io/2.4/#/zh-CN/component/installation) / Backbone / jQuey
-1. Webpack自配置 / 开发plugins(如[px2vw-loader](https://github.com/ImPigerla/px2vw-loader))
-1. CSS3动画 / HTML语义化标签 / 前端性能
-1. [Eggjs](https://eggjs.org/) / Koajs / Expressjs 等 Node开发
-1. Mongodb(Mongoose) / Redis
-
-## 基层建设
-
-- 利用webpack/vue-cli等工具建立项目脚手架（项目模版），开箱即用。
-- 累积开发通用控件、指令和配置等。
-- 内部前端规范网站
-    - Html & Css & Javascript规范
-    - 接口约定规范
-    - 前端分享集
-- 内部Ease Mock系统搭建与推广
-    - 可按项目创建
-    - 可按成员分组
-
-具体可查看[https://github.com/ImPigerla?tab=repositories](https://github.com/ImPigerla?tab=repositories)
-
+1. **report-js** —— 纯js + Webpack UMD构建（现在用）
+    - js打点上报，与业务无关的方法库（npm包），支持多种方式引入，兼容SSR
+1. **vue-components** —— vue组件集合（多个后台项目在用）
+    - 提供一个独立项目的组件集合，提供组件同时可以看组件demo
+    - 支持写Readme.md文件编写组件的demo文档，支持tree shake
+1. **内部项目部署系统**（网易） —— Eggjs + MongoDB + Redis + Vue + VueRouter + Vuex + Nginx
+    - 对接jenkinsCI，点击触发构建，获取构建信息；用户登录管理，创建上线记录；定时发送上线通知邮件等功能
+    
 ## 移动端能力
 
-1. 微信公众号 / 小程序开发
-1. 移动适配 —— [px2vw-loader](https://github.com/ImPigerla/px2vw-loader) / [prerender-mobile-app](https://github.com/ImPigerla/prerender-mobile-app)
+1. 微信公众号 / 小程序开发 / Web APP开发
+1. 移动适配（React/Vue） —— [px2vw-loader](https://github.com/ImPigerla/px2vw-loader) / [prerender-mobile-app](https://github.com/ImPigerla/prerender-mobile-app)
 
-## 熟练工具
+## 技术栈&熟练工具
 
-1. CI构建部署 —— Jenkins / Gitlab-CI
-1. 内部Gitlab/npm私包 —— 可搭建，Git hook钩子
-1. Nginx相关web配置，如[web-prerender-nginx-config](https://github.com/ImPigerla/web-prerender-nginx-config)
-1. Git使用操作
-
-## 其他接触&想法
-
-1. 利用[puppeteer](https://github.com/GoogleChrome/puppeteer)进行辅助自动化测试
-1. 利用Node作为中间层（数据处理层）
-1. 利用[QraphQL](https://graphql.cn/)可视化编辑数据
+1. Vue（包含Vuex + VueRouter等全家桶） / Axios / 单页面预渲染 / React（SSR）
+1. Webpack自配置 / Easywebpack / 开发plugins(如[px2vw-loader](https://github.com/ImPigerla/px2vw-loader))
+1. ElementUI / Backbone / jQuey / Angular / Taro
+1. Eggjs / Koajs / Expressjs 等 Node开发
+1. MongoDB(Mongoose) / Redis
+1. Git hook / npm publish
+1. IDE: vscode / webstorm / vim
+1. OS: MacOS / Windows / Ubuntu / Centos
 
 #### 相关链接
 
 1. <small>分享文章 [http://blog.pigerla.com/article/](http://blog.pigerla.com/article/)</small>
 1. <small>简历链接 [http://blog.pigerla.com/about/resume.html](http://blog.pigerla.com/about/resume.html)</small>
+1. <small>Github [https://github.com/ImPigerla?tab=repositories](https://github.com/ImPigerla?tab=repositories)</small>
