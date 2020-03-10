@@ -12,21 +12,21 @@ navbar: false
 
 ## 学历&联系
 
-### <icon class="text-color-third mr-10" name=xuexiaoqingkuang />华南师范大学 <sup style="font-weight: normal;">2010 ~ 2014</sup> <small class="pull-right" style="font-weight: normal; margin-top: 5px;">计算机学院 **软件工程** 专业，**本科** 学历</small>
+### <icon class="text-color-third mr-10" name=xuexiaoqingkuang />华南师范大学(2010.09 ~ 2014.06) <small class="pull-right" style="font-weight: normal; margin-top: 5px;">计算机学院 **软件工程** 专业，**本科** 学历</small>
 
 ### <icon class="text-color-third mr-10" name=phone /><a class="mr-30" href=tel:15920416317>15920416317</a> <icon class="text-color-third mr-10" name=mail /><a href=mailto:474957860@qq.com>474957860@qq.com</a> / <a href=mailto:wjj474957860@gmail.com>wjj474957860@gmail.com</a>
 
 ## 工作经历
 
-1. **广州小鹏汽车** / 1年 <small>(2019.05-至今)</small> / **前端高级工程师**
+1. **广州小鹏汽车** / 1年 <small>(2019.05 ~ 至今)</small> / **前端高级工程师**
     - 主要负责商城、官网、活动平台等C端或后台项目开发
     - 负责相关组件或库开发，并发布成内部npm包或者内部在线文档
     - 荣获互联网中心2019年度质量之星车联类第一名 —— 商城团队
-1. **广州网易** / 3.6年 <small>(2015.08-2019.04)</small> / **资深开发工程师**（前端）
+1. **广州网易** / 3.6年 <small>(2015.08 ~ 2019.04)</small> / **资深开发工程师**（前端）
     - 小组前端负责人，需求评估、技术选型 & 落地
     - 主要负责OA系统、校招&社招等B端项目开发
     - 为内部服务，招聘流程提供稳定、靠谱的保障
-1. **广州AI考拉理财** / 1.5年 <small>(2014.02-2015.07)</small> / **前端开发工程师**
+1. **广州AI考拉理财** / 1.5年 <small>(2014.02 ~ 2015.07)</small> / **前端开发工程师**
     - 负责seajs后端服务，backbone前端项目开发
 
 ## 项目经验
