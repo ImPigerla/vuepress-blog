@@ -14,7 +14,7 @@ navbar: false
 
 ### <icon class="text-color-third mr-10" name=xuexiaoqingkuang />华南师范大学 <sup style="font-weight: normal;">2010 ~ 2014</sup> <small class="pull-right" style="font-weight: normal; margin-top: 5px;">计算机学院 **软件工程** 专业，**本科** 学历</small>
 
-### <icon class="text-color-third mr-10" name=phone /><a class="mr-30" href=tel:15920416317>15920416317</a> <icon class="text-color-third mr-10" name=mail /><a href=mailto:474957860@qq.com>474957860@qq.com</a> <i class="text-color-third" style="font-weight: normal">/</i> <a href=mailto:wjj474957860@gmail.com>wjj474957860@gmail.com</a>
+### <icon class="text-color-third mr-10" name=phone /><a class="mr-30" href=tel:15920416317>15920416317</a> <icon class="text-color-third mr-10" name=mail /><a href=mailto:474957860@qq.com>474957860@qq.com</a> / <a href=mailto:wjj474957860@gmail.com>wjj474957860@gmail.com</a>
 
 ## 工作经历
 
@@ -26,20 +26,21 @@ navbar: false
 
 ### 广州小鹏汽车科技有限公司 <small style="font-size:.8em;margin-top:5px" class="pull-right text-color-third">包括以下但不限于</small>
 
-1. [活动平台](https://event.xiaopeng.com/) —— React + Eggjs（SSR）<small style="margin-top:5px" class="pull-right text-color-third">两人主导开发</small>
+1. [活动平台](https://event.xiaopeng.com/) —— React + Eggjs（SSR）<small style="margin-top:5px" class="pull-right">两人主导开发</small>
     - 平台型项目，为每个活动项目提供能力支撑，支持多页面
     - 由**渲染服务**和**模版服务**两个项目组成
     - 提供**模版开发**、**关联活动**、**渠道管理**、**推广URL**和**数据报表**等功能
     - 管理后台提供模版、活动、渠道、权限和奖品等管理能力
-1. [老带新活动](https://events.xiaopeng.com/asdqwe.html?pr=activity&ch=00022) <small style="margin-top:5px" class="pull-right text-color-third">独立开发</small>
+1. [老带新活动](https://events.xiaopeng.com/asdqwe.html?pr=activity&ch=00022) <small style="margin-top:5px" class="pull-right">独立开发</small>
     - 承担老用户分享、拉新用户、用户留资的角色，生成海报、分享海报与邀请
     - 2019年底上线以来，一直是拉新、留资等角色的主力军，并后期多次迭代
     - 摘取运营数据：首页UV上升83.3%，留资页UV上升186%，分享引流倍率16%，2月KPI目标完成率129%
-1. [小鹏商城](https://store.xiaopeng.com/) —— React + Eggjs（SSR）<small style="margin-top:5px" class="pull-right text-color-third">两人合作开发</small>
+1. [小鹏商城](https://store.xiaopeng.com/) —— React + Eggjs（SSR）<small style="margin-top:5px" class="pull-right">两人合作开发</small>
     - 汽车的线上销售，提供车辆的选配、下单、查看订单详情与状态信息等功能
     - 支持意向金、定金支付方式及意向金翻倍等多种活动结合玩法
-1. [小鹏官网](https://www.xiaopeng.com/) —— React + Eggjs（SSR）<small style="margin-top:5px" class="pull-right text-color-third">主导开发</small>
+1. [小鹏官网](https://www.xiaopeng.com/) —— React + Eggjs（SSR）<small style="margin-top:5px" class="pull-right">主导开发</small>
     - 承载公司产品图片或视频等多形式宣传与展示、新闻咨询发布、客户留资等功能
+    - 通过app.locals注入当前UA环境的
     - 配合CMS后台，提供路由规则制定、页面管理、文章页面、视频页面、问答页面、素材管理等功能
 
 <h3 style="text-align:center">荣获互联网中心2019年度质量之星车联类第一名 —— 商城团队</h3>
