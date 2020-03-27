@@ -33,7 +33,7 @@ navbar: false
 
 ### 广州小鹏汽车科技有限公司 <small style="font-size:.8em;margin-top:5px" class="pull-right text-color-third">包括以下但不限于</small>
 
-1. [活动平台](https://event.xiaopeng.com/)(2019.09 ~ 至今) —— React + Eggjs（SSR）<small style="margin-top:5px" class="pull-right">两人主导开发</small>
+1. [活动平台](https://event.xiaopeng.com/)(2019.09 ~ 至今) —— React + Eggjs（SSR）<small style="margin-top:5px" class="pull-right">主导开发</small>
     - 是平台型项目，为每个活动项目提供能力支撑，支持活动多页面
     - 主要由**渲染服务**和**模版服务**两个核心项目组成
     - 提供**模版开发**、**关联活动**、**渠道管理**、**推广URL**和**数据报表**等功能
@@ -42,7 +42,7 @@ navbar: false
     - 是提供老用户分享、拉新用户、用户留资，可生成海报并分享与邀请功能的项目
     - 2019年底上线以来，一直是拉新、留资等角色的主力军，并后期多次迭代
     - 摘取运营数据：首页UV上升83.3%，留资页UV上升186%，分享引流倍率16%，2月KPI目标完成率129%
-1. [小鹏商城](https://store.xiaopeng.com/)(2019.09 ~ 至今) —— React + Eggjs（SSR）<small style="margin-top:5px" class="pull-right">两人合作开发</small>
+1. [小鹏商城](https://store.xiaopeng.com/)(2019.09 ~ 至今) —— React + Eggjs（SSR）<small style="margin-top:5px" class="pull-right">合作开发</small>
     - 是汽车线上销售的第一入口项目
     - 提供车辆的选配、下单、查看订单详情与状态信息等功能
     - 支持意向金、定金支付方式及意向金翻倍等多种活动结合玩法
@@ -84,12 +84,12 @@ navbar: false
 ## 技术栈&工具
 
 1. 熟练 Vue（包含Vuex + VueRouter等全家桶） / Axios / 单页面预渲染 / React（SSR）/ ES6
-1. 熟悉 Webpack自配置 / Easywebpack / 开发plugins(如[px2vw-loader](https://github.com/ImPigerla/px2vw-loader))
-1. 熟练 ElementUI / Backbone / jQuey / Angular
+1. 熟悉 Webpack自配置 / Easywebpack / 开发loader、plugins(如[px2vw-loader](https://github.com/ImPigerla/px2vw-loader)、[war-package-plugin](https://github.com/ImPigerla/war-package-plugin))
+1. 熟练 ElementUI / Backbone / jQuery / Angular
 1. 熟悉 Eggjs / Koajs / Expressjs 等 Node开发
 1. 熟悉 MongoDB(Mongoose) / Redis
 1. 熟练 Git hook / npm publish
-1. IDE: vscode / webstorm / vim
+1. IDE: Vscode / Webstorm / Vim
 1. OS: MacOS / Windows / Ubuntu / Centos
 
 #### 相关链接
