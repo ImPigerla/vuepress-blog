@@ -1,5 +1,11 @@
 # webpack相关-使用compilation的assets计算文件的MD5
 
+如果还没有下载`md5`包则下载一个，如下
+
+```bash
+npm i -D md5
+```
+
 ```js
 // 用来算指定文件内容的MD5
 const md5 = require('md5');
