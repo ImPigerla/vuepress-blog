@@ -6,6 +6,10 @@
 npm i -D md5
 ```
 
+## compilation
+
+利用compilation这个实例来处理，例子如下：
+
 ```js
 // 用来算指定文件内容的MD5
 const md5 = require('md5');
