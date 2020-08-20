@@ -15,5 +15,6 @@ exports.logrotator = {
 utf8mb4最明显的好处是解决了苹果挖的坑-推广了emoji表情。utf8mb4解决了MySQL数据库存储emoji表情的问题
 utf8mb4是utf8的超集，理论上由utf8升级到utf8mb4字符编码没有任何兼容问题
 
-phpMyAdmin编辑表列数据
+### phpMyAdmin编辑表列数据
+
 ![https://cdn.nlark.com/yuque/0/2020/png/1277441/1597911278398-fedaf2a2-8476-495e-9608-744e5c0b5348.png](https://cdn.nlark.com/yuque/0/2020/png/1277441/1597911278398-fedaf2a2-8476-495e-9608-744e5c0b5348.png)
