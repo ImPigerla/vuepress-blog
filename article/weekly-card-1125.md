@@ -39,3 +39,5 @@ navigator.serviceWorker需要一个安全上下文([Secure Context](https://w3c.
 1. 地址栏输入：chrome://flags/#unsafely-treat-insecure-origin-as-secure
 2. 开启“Enabled”
 3. 输入待验证的环境地址
+
+![unsafely-treat-insecure-origin-as-secure](https://cdn.nlark.com/yuque/0/2020/png/1277441/1606357908742-fe2c3801-551b-4d11-aa48-80cf1bee4d0c.png?x-oss-process=image%2Fresize%2Cw_1492)
