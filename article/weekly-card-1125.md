@@ -24,3 +24,18 @@
 ```
 
 注：`referrerpolicy`目前是试验性属性，存在兼容性问题。可以在[https://caniuse.com/?search=referrerpolicy](https://caniuse.com/?search=referrerpolicy)，查看兼容情况。
+
+
+## PWA的navigator.serviceWorker为undefined的情况
+
+navigator.serviceWorker需要一个安全上下文([Secure Context](https://w3c.github.io/webappsec-secure-contexts/))，否则navigator.serviceWorker取值为undefined，怎样提供安全上下文呢，有以下两种：
+
+1. localhost或者127.0.0.1本地访问
+2. 开启https
+
+但是，在测试环境或者说无法开启https的环境怎么验证？
+可以告诉chrome，哪些是“安全“的，步骤如下：
+
+1. 地址栏输入：chrome://flags/#unsafely-treat-insecure-origin-as-secure
+2. 开启“Enabled”
+3. 输入待验证的环境地址
